@@ -1,4 +1,4 @@
-# Demonstration of image interpolation algorithms in Spyder IDE
+# Demonstration of image interpolation algorithms
 Nearest neighbor interpolation
 Bilinear interpolation
 Bicubic interpolation
