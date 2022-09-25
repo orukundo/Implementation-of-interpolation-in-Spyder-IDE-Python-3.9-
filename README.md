@@ -1,5 +1,5 @@
 # Demonstration of basic image interpolation algorithms
-Nearest neighbor interpolation
-Bilinear interpolation
-Bicubic interpolation
-Lanczos interpolation
+(1) Nearest neighbor image interpolation
+(2) Bilinear image interpolation
+(3) Bicubic image interpolation
+(4) Lanczos image interpolation
